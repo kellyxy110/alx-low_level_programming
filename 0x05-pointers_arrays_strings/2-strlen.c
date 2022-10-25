@@ -16,10 +16,10 @@ int _strlen(char *s)
 
 
 
-			for (; *s++;)
+		for (; *s++;)
 
-						a++;
+			a++;
 
-				return (a);
+		return (a);
 
 }
